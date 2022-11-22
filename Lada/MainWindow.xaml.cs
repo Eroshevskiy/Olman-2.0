@@ -40,7 +40,8 @@ namespace Lada
 
         private void Btn_Clikc3(object sender, RoutedEventArgs e)
         {
-
+            MainFrame.Navigate(new inst());
+            Manager.MainFrame = MainFrame;
         }
     }
 }

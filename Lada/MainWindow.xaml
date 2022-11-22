@@ -32,6 +32,7 @@
         <StackPanel VerticalAlignment="Center"> 
             <Button Click="Btn_Clikc" Height="25" >Информация</Button>
             <Button Click="Btn_Clikc2" Height="25">СИЗ</Button>
+            <Button Click="Btn_Clikc3" Height="25">Интсрументы</Button>
         </StackPanel>
         
       
